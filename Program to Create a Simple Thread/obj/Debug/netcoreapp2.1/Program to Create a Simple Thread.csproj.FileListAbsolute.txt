@@ -1,0 +1,10 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\bin\Debug\netcoreapp2.1\Program to Create a Simple Thread.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\bin\Debug\netcoreapp2.1\Program to Create a Simple Thread.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\bin\Debug\netcoreapp2.1\Program to Create a Simple Thread.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\bin\Debug\netcoreapp2.1\Program to Create a Simple Thread.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\bin\Debug\netcoreapp2.1\Program to Create a Simple Thread.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\obj\Debug\netcoreapp2.1\Program to Create a Simple Thread.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\obj\Debug\netcoreapp2.1\Program to Create a Simple Thread.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\obj\Debug\netcoreapp2.1\Program to Create a Simple Thread.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\obj\Debug\netcoreapp2.1\Program to Create a Simple Thread.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Program to Create a Simple Thread\Program to Create a Simple Thread\obj\Debug\netcoreapp2.1\Program to Create a Simple Thread.pdb
